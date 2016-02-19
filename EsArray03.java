@@ -6,7 +6,7 @@ public class EsArray03{
 	public static void main(String[] args){
 	
 			Scanner tastiera = new Scanner(System.in);
-			int[] arrayNum = {44,11,5,8,10,3};
+			int[] arrayNum = {11,44,5,8,10,3};
 			
 			show(arrayNum);
 			max(arrayNum);
