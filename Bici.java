@@ -5,7 +5,8 @@ public class Bici{
 	String nomeProprietario;
 	int marcia;
 	int velocita;
-	
+
+
 	
 public Bici (String modello, String nomeProprietario) {
 	this.modello = modello;
